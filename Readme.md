@@ -8,7 +8,8 @@
 ###### Klavyeden girilen sayılar ile oluşturulan diziyi tersten yazdıran algoritmanın akış diyagramı.
 
 
-![res](https://user-images.githubusercontent.com/25087769/77688765-a8cb1f00-6fb1-11ea-9f0b-a73fdf0119fc.png)
+![res](https://user-images.githubusercontent.com/25087769/77689232-62c28b00-6fb2-11ea-93ae-1a9e7f557d5e.png)
+
 
 
 
