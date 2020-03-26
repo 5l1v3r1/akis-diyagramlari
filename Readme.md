@@ -1,16 +1,15 @@
-## Hesap Makinesi
-
+## Dizi Elemanlarını Tersten Yazdırma
 
 ### Tanım
-##### 4 işlem yapan basit hesap makinesi akış diyagramı
-
+##### Klavyeden girilen sayılar ile oluşturulan diziyi tersten yazdıran akış diyagramı
 
 
 ### Akış Diyagramı
-###### Klavyeden girilen iki sayıyı seçilen işleme göre hesaplayan algoritmanın akış diyagramı.
+###### Klavyeden girilen sayılar ile oluşturulan diziyi tersten yazdıran algoritmanın akış diyagramı.
 
 
-![res](https://user-images.githubusercontent.com/25087769/77680602-410ed700-6fa5-11ea-9460-6fcaffe74efb.png)
+![res](https://user-images.githubusercontent.com/25087769/77688765-a8cb1f00-6fb1-11ea-9f0b-a73fdf0119fc.png)
+
 
 
 
