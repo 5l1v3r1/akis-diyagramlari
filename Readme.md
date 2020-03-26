@@ -8,5 +8,5 @@
 
 
 ### Akış Diyagramı
-###### 100000'e kadar kaç tane tekin sayı olduğunu bulan akış diyagramı.
+###### 100000'e kadar kaç tane tekin sayı olduğunu bulan algoritmanın akış diyagramı.
 ![resim](https://user-images.githubusercontent.com/25087769/77649251-984b8200-6f7a-11ea-8386-6aede94a6d3b.png)
