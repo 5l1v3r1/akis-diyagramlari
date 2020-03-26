@@ -1,16 +1,12 @@
-## En Büyük ve En Küçük Sayı
+## Bölünebilme Kuralları
 
 ### Tanım
-##### Klavyeden girilen sayılarla oluşturulan diziden, en büyük ve en küçük sayıları bulan akış diyagramı.
+##### Klavyeden  girilen sayıları 3, 5 ve 15'e tam bölünenlere göre sınıflandıran akış diyagramı.
 
 ### Akış Diyagramı
-###### Klavyeden girilen sayılarla oluşturulan diziden, en büyük ve en küçük sayıları bulan  algoritmanın akış diyagramı.
+###### Klavyeden girilen sayıları 3, 5 ve 15'e tam bölünenlere göre sınıflandıran algoritmanın akış diyagramı.
 
-![res](https://user-images.githubusercontent.com/25087769/77692106-13cb2480-6fb7-11ea-9ddd-c2a0980a1936.png)
-
-
-
-
+![res](https://user-images.githubusercontent.com/25087769/77693324-32cab600-6fb9-11ea-87be-7d4c116d6369.png)
 
 
 
