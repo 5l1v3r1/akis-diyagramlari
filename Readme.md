@@ -1,20 +1,16 @@
-## Asal Sayılar
+## Küçükten Büyüğe Sıralama
 
 
 ### Tanım
-##### Sadece 1  ve kendisine kalansız bölünebilen 1'den büyük sayılardir.
+##### Klavyeden girilen sayıları küçükten büyüğe doğru sıralayan akış diyagramı
 
 
-
-### Örnek
-##### 2,7,31,97 sayıları asal sayılardır.
- 
 
 ### Akış Diyagramı
-###### Klavyeden girilen bir sayının asal olup olmadığını bulan algoritmanın akış diyagramı.
+###### Klavyeden girilen sayıları küçükten büyüğe doğru sıralayan algoritmanın akış diyagramı.
 
 
-![resim](https://user-images.githubusercontent.com/25087769/77677876-5eda3d00-6fa1-11ea-8864-5a6fb40014d7.png)
+![res](https://user-images.githubusercontent.com/25087769/77678643-8251b780-6fa2-11ea-8173-3df06a4081a2.png)
 
 
 
