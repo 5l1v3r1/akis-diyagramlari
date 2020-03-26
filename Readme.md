@@ -1,20 +1,21 @@
-## İki Sayının Tam Ortak Bölenleri
+## Asal Sayılar
 
 
 ### Tanım
-##### Klavyeden girilen iki sayının ortak bölenlerini bulan akış diyagramı
+##### Sadece 1  ve kendisine kalansız bölünebilen 1'den büyük sayılardir.
 
 
 
 ### Örnek
-##### 75 ve 45 sayıları için ortak bölenler:[ 1 3 5 15 ]
+##### 2,7,31,97 sayıları asal sayılardır.
  
 
 ### Akış Diyagramı
-###### Klavyeden girilen iki sayının ortak bölenlerini bulan algoritmanın akış diyagramı.
+###### Klavyeden girilen bir sayının asal olup olmadığını bulan algoritmanın akış diyagramı.
 
 
-![res](https://user-images.githubusercontent.com/25087769/77677069-3e5db300-6fa0-11ea-996c-61b9ed50102a.png)
+![resim](https://user-images.githubusercontent.com/25087769/77677876-5eda3d00-6fa1-11ea-8864-5a6fb40014d7.png)
+
 
 
 
