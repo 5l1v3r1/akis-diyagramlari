@@ -1,22 +1,20 @@
-## Zengin Sayılar
+## Fibonacci Sayılar
 
 
 ### Tanım
-##### Bir sayının bölenleri toplamı kendisinden büyük olan sayılardır.
+##### Her sayının kendinden önceki sayı ile toplanması sonucu oluşan bir sayı dizisidir.
 
 
 
 ### Örnek
-##### 2018 sayısı için,
-- Birler basamagi  : 8
-- Onlar basamagi   : 1
-- Yuzler basamagi  : 0
-- Binler basamagi  : 2
+##### [ 0 1 1 2 3 5 8 13 21 34 ] dizisi bir  fibonacci dizisidir.
+ 
 
 ### Akış Diyagramı
-###### 1 ile 6 basamak arasında girilen sayıları basamaklarına ayıran algoritmanın akış diyagramı.
+###### Klavyeden girilen sayı kadar elemana sahip bir fibonacci dizisi üreten algoritmanın akış diyagramı.
 
-![resim](https://user-images.githubusercontent.com/25087769/77675226-b70f4000-6f9d-11ea-8780-a3cb614a61c7.png)
+![resim](https://user-images.githubusercontent.com/25087769/77675839-854aa900-6f9e-11ea-8cbe-0eb7e10a4b56.png)
+
 
 
 
