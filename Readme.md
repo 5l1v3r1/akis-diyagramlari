@@ -1,18 +1,18 @@
-## Dudeney Sayıları
+## Mükemmler Sayılar
 
 ### Tanım
-##### Bir sayının basamaklarının rakam değerleri toplamının küpü kendisine eşit olan sayılara dudeney sayılar denir.
+##### Kendisi hariç pozitif bölenlerin toplamı kendisine eşit olan sayılardır.
 
 
 ### Örnek
-##### 512 sayısı için , rakamları toplamı 5+1+2=8 eder. 8 sayısının küpü de 8x8x8=512 eder.Bu durumda 512 sayısı dudeney bir sayıdır.
+##### 6 sayısı için, 6'nın pozitif bölenleri 1,2,3'dir.1+2+3=6'ya eşittir.Bu durumda 6 sayısı mükemmel olur.
 
 
 
 
 ### Akış Diyagramı
-###### 100.000'e kadar tane dudeney sayısı olduğunu bulan algoritmanın akış diyagramı
+###### Girilen bir sayının mükemmel sayı olup olmadığını bulan algoritmanın akış diyagramı
 
-![resim](https://user-images.githubusercontent.com/25087769/77665285-81b02580-6f90-11ea-80ea-7d1f2b1b332c.png)
+![resim](https://user-images.githubusercontent.com/25087769/77666350-e4ee8780-6f91-11ea-90c9-5d0c5384bece.png)
 
 
