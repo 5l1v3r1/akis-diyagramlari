@@ -1,19 +1,21 @@
-## Fibonacci Sayılar
+## İki Sayının Tam Ortak Bölenleri
 
 
 ### Tanım
-##### Her sayının kendinden önceki sayı ile toplanması sonucu oluşan bir sayı dizisidir.
+##### Klavyeden girilen iki sayının ortak bölenlerini bulan akış diyagramı
 
 
 
 ### Örnek
-##### [ 0 1 1 2 3 5 8 13 21 34 ] dizisi bir  fibonacci dizisidir.
+##### 75 ve 45 sayıları için ortak bölenler:[ 1 3 5 15 ]
  
 
 ### Akış Diyagramı
-###### Klavyeden girilen sayı kadar elemana sahip bir fibonacci dizisi üreten algoritmanın akış diyagramı.
+###### Klavyeden girilen iki sayının ortak bölenlerini bulan algoritmanın akış diyagramı.
 
-![resim](https://user-images.githubusercontent.com/25087769/77675839-854aa900-6f9e-11ea-8cbe-0eb7e10a4b56.png)
+
+![res](https://user-images.githubusercontent.com/25087769/77677069-3e5db300-6fa0-11ea-996c-61b9ed50102a.png)
+
 
 
 
