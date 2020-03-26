@@ -1,4 +1,4 @@
-## Random Çift ve Tek Sayılar
+## En Büyük ve En Küçük Sayı
 
 ### Tanım
 ##### Klavyeden girilen sayılarla oluşturulan diziden, en büyük ve en küçük sayıları bulan akış diyagramı.
