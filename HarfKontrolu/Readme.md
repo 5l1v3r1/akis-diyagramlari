@@ -12,4 +12,4 @@
 
 
 
-
+![goruntu](https://raw.githubusercontent.com/mustafadalga/akis-diyagramlari/master/HarfKontrolu/goruntu.bmp)
