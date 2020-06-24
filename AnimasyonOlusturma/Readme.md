@@ -10,6 +10,6 @@
 ### Akış Diyagramı
 
 
-
+![goruntu](https://raw.githubusercontent.com/mustafadalga/akis-diyagramlari/master/AnimasyonOlusturma/goruntu.bmp)
 
 
