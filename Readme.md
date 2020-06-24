@@ -1,7 +1,7 @@
-## Akış Diyagramları
+## Algoritma ve Akış Diyagramları
 
 ### Açıklama
-**Fcpro ile programı kullanılarak geliştirilmiş akış diyagramı örnekleridir.**
+**Fcpro yazılımı kullanılarak geliştirilmiş algoritma ve  akış diyagramı örnekleridir.**
 
 Örnekler hem Fcpro uygulama dosyası hem de exe çalıştırılabilir hali olarak yüklenmiştir.
 
